@@ -1,0 +1,11 @@
+
+Person who has to publish
+
+1. git status
+2. git add FILENAME
+3. git commit -m "MESSAGE"
+4. git push (LOCAL -> CLOUD)
+
+Receiving end - Collaborator
+1. git fetch
+2. git pull (CLOUD -> LOCAL)
